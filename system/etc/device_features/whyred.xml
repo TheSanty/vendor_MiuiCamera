@@ -293,4 +293,6 @@
     <bool name="front_fingerprint_sensor">true</bool>
     <!-- water mark default value -->
     <bool name="camera_picture_watermark_default">false</bool>
+    <!-- whether camera support Google lens entry -->
+    <bool name="camera_support_google_lens">true</bool>
 </features>

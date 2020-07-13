@@ -291,4 +291,6 @@
     <!-- From android one -->
     <bool name="is_android_one_device">true</bool>
     <bool name="front_fingerprint_sensor">true</bool>
+    <!-- water mark default value -->
+    <bool name="camera_picture_watermark_default">false</bool>
 </features>

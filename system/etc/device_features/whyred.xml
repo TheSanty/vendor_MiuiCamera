@@ -226,48 +226,6 @@
     <bool name="support_led_light">true</bool>
     <bool name="support_led_color">false</bool>
     <bool name="support_audio_loopback">true</bool>
-    <!--Add for the system data-app which could uninstall by user-->
-    <string-array name="system_data_packagename_list">
-        <item>com.xiaomi.pass</item>
-        <item>com.xiaomi.scanner</item>
-        <item>com.xiaomi.gamecenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.miui.notes</item>
-        <item>com.miui.compass</item>
-        <item>com.miui.calculator</item>
-        <item>com.android.email</item>
-        <item>com.miui.cleanmaster</item>
-        <item>com.mi.misupport</item>
-        <item>com.duokan.reader</item>
-        <item>com.mfashiongallery.emag</item>
-        <item>com.miui.personalassistant</item>
-        <item>com.miui.voip</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.xiaomi.midrop</item>
-        <item>com.android.midrive</item>
-        <item>com.xiaomi.drivemode</item>
-    </string-array>
-    <!--system data-app path list -->
-    <string-array name="system_data_path_list">
-        <item>/system/data-app/XMPass/XMPass.apk</item>
-        <item>/system/data-app/MiuiScanner/MiuiScanner.apk</item>
-        <item>/system/data-app/GameCenter/GameCenter.apk</item>
-        <item>/system/data-app/Weather/Weather.apk</item>
-        <item>/system/data-app/Notes/Notes.apk</item>
-        <item>/system/data-app/MiuiCompass/MiuiCompass.apk</item>
-        <item>/system/data-app/Calculator/Calculator.apk</item>
-        <item>/system/data-app/Email/Email.apk</item>
-        <item>/system/data-app/CleanMaster/CleanMaster.apk</item>
-        <item>/system/data-app/MiSupport/MiSupport.apk</item>
-        <item>/system/data-app/com.duokan.reader/com.duokan.reader.apk</item>
-        <item>/system/data-app/MiGalleryLockscreen/MiGalleryLockscreen.apk</item>
-        <item>/system/data-app/PersonalAssistant/PersonalAssistant.apk</item>
-        <item>/system/data-app/MiuiVoip/MiuiVoip.apk</item>
-        <item>/system/data-app/YellowPage/YellowPage.apk</item>
-        <item>/system/data-app/MiDrop/MiDrop.apk</item>
-        <item>/system/data-app/MiDrive/MiDrive.apk</item>
-        <item>/system/data-app/MiuiDriveMode/MiuiDriveMode.apk</item>
-    </string-array>
     <!-- whether camera support AI lens entry -->
     <bool name="camera_support_ai_lens">true</bool>
     <bool name="camera_supported_ai_scene">true</bool>
